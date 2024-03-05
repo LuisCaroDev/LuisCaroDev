@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuisCaroDev
-- 👀 I’m interested in Frontend | mobile | AI  
+- 👀 I’m interested in Frontend | Mobile | AI  
 - 🌱 I’m currently learning Algorithms
 - 🥺 my old github account [angelcgdev](https://github.com/angelcgdev)
 <!---
